@@ -43,7 +43,7 @@ I will have to work on position: absolute, because I had to use this and I was r
 
 ### Useful resources
 
-- [tsbsankara - YouTube](https://www.youtube.com/c/tsbsankara) - This guy's video helped me to learn little bit about the position: absolute, so I wasn't that furstrated. Thank you mate!
+- [tsbsankara - YouTube](https://www.youtube.com/c/tsbsankara) - This guy's video helped me to learn little bit about the position: absolute, so I wasn't that frustrated. Thank you mate!
 
 
 ## Author
